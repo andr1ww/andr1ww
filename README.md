@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- All my projects or most are [private](private)
+- All my projects or most are private
 
 - 📫 How to reach me **itztiva on discord**
 
