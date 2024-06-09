@@ -7,14 +7,8 @@
 
 - All my projects or most are private
 
-- 📫 How to reach me **itztiva on discord**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Itztivaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="projectluna" height="30" width="40" /></a>
-<a href="https://instagram.com/fqlol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fqlol" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itztiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tivavr" height="30" width="40" /></a>
-</p>
+![Github stats](https://github-readme-stats-psi-seven-58.vercel.app/api?username=itztiva&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
+![Top lang](https://github-readme-stats-psi-seven-58.vercel.app/api/top-langs/?username=itztiva&layout=donut-vertical&theme=blue-green&exclude_repo=github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
