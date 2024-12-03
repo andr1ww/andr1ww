@@ -5,5 +5,5 @@
 
 ![Github stats](https://github-readme-stats-psi-seven-58.vercel.app/api?username=itztiva&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
 <br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itztiva&layout=compact&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itztiva&layout=compact&theme=ambient_gradient&text_color=434d58)
 
