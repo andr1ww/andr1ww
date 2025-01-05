@@ -4,6 +4,10 @@
 Working with TypeScript, C#, and learning C++.  
 Interested in Unreal Engine and reverse engineering.
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=itztiva&label=Profile%20views&color=0e75b6&style=flat" alt="itztiva" />
+</p>
+
 ---
 
 <div align="center">
