@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tiva
 
-15 y/o developer from the United States.  
+14 y/o developer from the United States.  
 Working with TypeScript, C#, Elixir, and currently learning C++.  
 Interested in Unreal Engine and reverse engineering.
 
