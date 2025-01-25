@@ -4,8 +4,6 @@
 Working with TypeScript, C#, Elixir, and currently learning C++.  
 Interested in Unreal Engine and reverse engineering.
 
-oqwt is a stupid fat kid
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=itztiva&label=Profile%20views&color=0e75b6&style=flat" alt="itztiva" />
 </p>
