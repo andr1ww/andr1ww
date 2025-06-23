@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tiva
+# 👋 Hi, I'm Andrew
 
 14 y/o developer from the United States.  
 Working with TypeScript, C#, Elixir, and currently learning C++.  
