@@ -5,7 +5,7 @@ Working with TypeScript, C#, Elixir, and currently learning C++.
 Interested in Unreal Engine and reverse engineering.
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=itztiva&label=Profile%20views&color=0e75b6&style=flat" alt="itztiva" />
+    <img src="https://komarev.com/ghpvc/?username=andr1ww&label=Profile%20views&color=0e75b6&style=flat" alt="itztiva" />
 </p>
 
 ---
